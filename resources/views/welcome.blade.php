@@ -4,6 +4,6 @@
     <title>MonBe in AWS</title>
 </head>
 <body>
-Hello, world!
+Hello, world! asd and laravel api :)))
 </body>
 </html>
